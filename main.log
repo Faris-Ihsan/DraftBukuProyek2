@@ -1,0 +1,1656 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.10.14)  5 MAR 2020 10:20
+entering extended mode
+**d:/KOOLYEAH/Project2/bukuISBN/main.tex
+(d:/KOOLYEAH/Project2/bukuISBN/main.tex
+LaTeX2e <2019-10-01>
+(d:/KOOLYEAH\Project2\bukuISBN\wileySix.cls
+
+
+ Wiley Book Style, Design No.: SD 001C
+ and SD 004B
+ 
+ Written by Amy Hendrickson, TeXnology, Inc.
+ 
+ This version is dated Feb 16, 2011
+
+
+\phspace=\dimen102
+\SpaceAboveChapterNumber=\dimen103
+\savefootnotenumber=\count80
+\ftnum=\count81
+\saveftnum=\count82
+\c@chapapp=\count83
+\c@part=\count84
+\c@chapter=\count85
+\c@section=\count86
+\c@subsection=\count87
+\c@subsubsection=\count88
+\c@paragraph=\count89
+\c@subparagraph=\count90
+\c@figure=\count91
+\c@table=\count92
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\partskip=\skip43
+\tabandfigskip=\skip44
+\footnum=\count93
+\savefootnum=\count94
+\@indexfile=\write3
+\openout3 = `main.idx'.
+
+Writing index file main.idx
+\iletterskip=\skip45
+\timing=\count95
+\hourcount=\count96
+\oldtime=\count97
+\probcount=\count98
+\subprobcount=\count99
+\c@subproblem=\count100
+\c@subproblem=\count101
+\widthofcropmarks=\dimen104
+\raisetopcropmarks=\dimen105
+\raisebottomcropmarks=\dimen106
+\movecropmarksright=\dimen107
+\c@theorem=\count102
+\c@appfootnote=\count103
+\slugwidth=\dimen108
+\slugheight=\dimen109
+\slugdepth=\dimen110
+\c@exampnum=\count104
+\c@algo=\count105
+\c@algorithm=\count106
+\chapskip=\dimen111
+\chapheight=\dimen112
+\authorskip=\dimen113
+) (D:\KOOLYEAH\LatexApp\tex/latex/graphics\graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+ (D:\KOOLYEAH\LatexApp\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+) (D:\KOOLYEAH\LatexApp\tex/latex/graphics\graphics.sty
+Package: graphics 2019/07/20 v1.3b Standard LaTeX Graphics (DPC,SPQR)
+ (D:\KOOLYEAH\LatexApp\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (D:\KOOLYEAH\LatexApp\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+ (D:\KOOLYEAH\LatexApp\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen114
+\Gin@req@width=\dimen115
+) (D:\KOOLYEAH\LatexApp\tex/latex/listings\listings.sty
+\lst@mode=\count107
+\lst@gtempboxa=\box27
+\lst@token=\toks15
+\lst@length=\count108
+\lst@currlwidth=\dimen116
+\lst@column=\count109
+\lst@pos=\count110
+\lst@lostspace=\dimen117
+\lst@width=\dimen118
+\lst@newlines=\count111
+\lst@lineno=\count112
+\lst@maxwidth=\dimen119
+ (D:\KOOLYEAH\LatexApp\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
+\c@lstnumber=\count113
+\lst@skipnumbers=\count114
+\lst@framebox=\box28
+) (D:\KOOLYEAH\LatexApp\tex/latex/listings\listings.cfg
+File: listings.cfg 2019/09/10 1.8c listings configuration
+))
+Package: listings 2019/09/10 1.8c (Carsten Heinz)
+ (D:\KOOLYEAH\LatexApp\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count115
+\float@exts=\toks16
+\float@box=\box29
+\@float@everytoks=\toks17
+\@floatcapt=\box30
+) (D:\KOOLYEAH\LatexApp\tex/latex/tools\indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+) (D:\KOOLYEAH\LatexApp\tex/latex/base\fontenc.sty
+Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
+ (D:\KOOLYEAH\LatexApp\tex/latex/base\t1enc.def
+File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+)) (D:\KOOLYEAH\LatexApp\tex/latex/inconsolata\inconsolata.sty
+Package: inconsolata 2019/05/17 v1.12
+ `inconsolata-zi4' v1.12, 2019/05/17 Text macros for Inconsolata (msharpe) (D:\KOOLYEAH\LatexApp\tex/latex/base\textcomp.sty
+Package: textcomp 2018/08/11 v2.0j Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+ (D:\KOOLYEAH\LatexApp\tex/latex/base\ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+) (D:\KOOLYEAH\LatexApp\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+ (D:\KOOLYEAH\LatexApp\tex/generic/xkeyval\xkeyval.tex (D:\KOOLYEAH\LatexApp\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks18
+\XKV@tempa@toks=\toks19
+)
+\XKV@depth=\count116
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+\zifour@ocount=\count117
+) (D:\KOOLYEAH\LatexApp\tex/latex/graphics\color.sty
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+ (D:\KOOLYEAH\LatexApp\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+) (D:\KOOLYEAH\LatexApp\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+ (D:\KOOLYEAH\LatexApp\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+ (D:\KOOLYEAH\LatexApp\tex/latex/colortbl\colortbl.sty
+Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
+ (D:\KOOLYEAH\LatexApp\tex/latex/tools\array.sty
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen120
+\ar@mcellbox=\box31
+\extrarowheight=\dimen121
+\NC@list=\toks20
+\extratabsurround=\skip46
+\backup@length=\skip47
+\ar@cellbox=\box32
+)
+\everycr=\toks21
+\minrowclearance=\skip48
+)
+LaTeX Info: Redefining \color on input line 709.
+\rownum=\count118
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+) (D:\KOOLYEAH\LatexApp\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2019/09/10 1.8c listings language file
+) (d:/KOOLYEAH\Project2\bukuISBN\w-bookps.sty
+
+
+ Using PostScript Fonts
+
+ Wiley Monograph/Edited Book Style
+ Feb 16, 2012
+
+ 
+)
+\sectsavebox=\box33
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 138.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 138.
+ (d:/KOOLYEAH\Project2\bukuISBN\main.aux
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 143.
+LaTeX Font Info:    ... okay on input line 143.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 143.
+LaTeX Font Info:    ... okay on input line 143.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 143.
+LaTeX Font Info:    ... okay on input line 143.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 143.
+LaTeX Font Info:    ... okay on input line 143.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 143.
+LaTeX Font Info:    ... okay on input line 143.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 143.
+LaTeX Font Info:    ... okay on input line 143.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 143.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 143.
+ (D:\KOOLYEAH\LatexApp\tex/latex/base\ts1cmr.fd
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 143.
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 143.
+ (D:\KOOLYEAH\LatexApp\tex/latex/psnfss\t1ptm.fd
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+) (D:\KOOLYEAH\LatexApp\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count119
+\scratchdimen=\dimen122
+\scratchbox=\box34
+\nofMPsegments=\count120
+\nofMParguments=\count121
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count122
+\MPscratchDim=\dimen123
+\MPnumerator=\count123
+\makeMPintoPDFobject=\count124
+\everyMPtoPDFconversion=\toks23
+) (D:\KOOLYEAH\LatexApp\tex/latex/oberdiek\epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+ (D:\KOOLYEAH\LatexApp\tex/generic/oberdiek\infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+) (D:\KOOLYEAH\LatexApp\tex/latex/oberdiek\grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+ (D:\KOOLYEAH\LatexApp\tex/generic/oberdiek\kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+ (D:\KOOLYEAH\LatexApp\tex/generic/oberdiek\ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+))) (D:\KOOLYEAH\LatexApp\tex/latex/oberdiek\kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+ (D:\KOOLYEAH\LatexApp\tex/generic/oberdiek\kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+ (D:\KOOLYEAH\LatexApp\tex/generic/oberdiek\etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+ (D:\KOOLYEAH\LatexApp\tex/generic/oberdiek\ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)))) (D:\KOOLYEAH\LatexApp\tex/generic/oberdiek\pdftexcmds.sty
+Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO)
+ (D:\KOOLYEAH\LatexApp\tex/generic/oberdiek\ifpdf.sty
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 438.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+\c@lstlisting=\count125
+ (D:\KOOLYEAH\LatexApp\tex/latex/upquote\upquote.sty
+Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verbatim
+)
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 162.
+ [1{C:/Users/Faris Fatin 32/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24.88> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 164.
+<kreatiflogo.png, id=9, 437.635pt x 207.77625pt>
+File: kreatiflogo.png Graphic file (type png)
+<use kreatiflogo.png>
+Package pdftex.def Info: kreatiflogo.png  used on input line 164.
+(pdftex.def)             Requested size: 122.85876pt x 58.32912pt.
+ [3 <d:/KOOLYEAH/Project2/bukuISBN/kreatiflogo.png>] (d:/KOOLYEAH\Project2\bukuISBN\info/copyrightpage.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 169--169
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--169
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--169
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--169
+
+ []
+
+[4] [5
+
+]
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 175.
+ (d:/KOOLYEAH\Project2\bukuISBN\info/contributors.tex) [5] [6
+
+] (d:/KOOLYEAH\Project2\bukuISBN\main.toc) [7] [8
+
+] (d:/KOOLYEAH\Project2\bukuISBN\main.toc
+Underfull \hbox (badness 10000) in paragraph at lines 10--10
+ [] []  
+ []
+
+[9])
+\tf@toc=\write4
+\openout4 = `main.toc'.
+
+
+Overfull \vbox (4.85098pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[10] (d:/KOOLYEAH\Project2\bukuISBN\main.lof [11
+
+])
+\tf@lof=\write5
+\openout5 = `main.lof'.
+
+
+Overfull \vbox (4.85098pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[12] (d:/KOOLYEAH\Project2\bukuISBN\main.lot)
+\tf@lot=\write6
+\openout6 = `main.lot'.
+
+ [13
+
+] [14
+
+] (d:/KOOLYEAH\Project2\bukuISBN\main.lol)
+\tf@lol=\write7
+\openout7 = `main.lol'.
+
+ [15] [16
+
+] (d:/KOOLYEAH\Project2\bukuISBN\info/foreword.tex) [17] [18
+
+] (d:/KOOLYEAH\Project2\bukuISBN\info/preface.tex) [19] [20
+
+] (d:/KOOLYEAH\Project2\bukuISBN\info/acknowledgments.tex [21]) [22
+
+] (d:/KOOLYEAH\Project2\bukuISBN\info/acronyms.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 17.
+ (D:\KOOLYEAH\LatexApp\tex/latex/psnfss\ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+) [23])
+Overfull \vbox (4.85098pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[24] (d:/KOOLYEAH\Project2\bukuISBN\info/glossary.tex) [25
+
+] [26
+
+] (d:/KOOLYEAH\Project2\bukuISBN\info/symbols.tex) [27] [28
+
+] (d:/KOOLYEAH\Project2\bukuISBN\info/introduction.tex
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 13.
+
+
+LaTeX Warning: Citation `awangga2018sampeu' on page xxix undefined on input line 13.
+
+
+LaTeX Warning: Citation `maulani2018analysis' on page xxix undefined on input line 13.
+
+) [29] [30
+
+]
+Bab 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 216.
+(d:/KOOLYEAH\Project2\bukuISBN\chapters/Sejarah-Android.tex
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 1.
+<pictures/logo_android.jpg, id=114, 1204.5pt x 803.0pt>
+File: pictures/logo_android.jpg Graphic file (type jpg)
+<use pictures/logo_android.jpg>
+Package pdftex.def Info: pictures/logo_android.jpg  used on input line 5.
+(pdftex.def)             Requested size: 240.89574pt x 160.59715pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1]
+Overfull \hbox (3.09799pt too wide) in paragraph at lines 13--14
+\T1/ptm/m/n/10 An-droid di-gu-nakan un-tuk perangkat \T1/ptm/m/it/10 mo-bile\T1/ptm/m/n/10 , maka An-droid di-gu-nakan pada perangkat
+ []
+
+<pictures/merk-OEM-Android.png, id=118, 865.2325pt x 602.25pt>
+File: pictures/merk-OEM-Android.png Graphic file (type png)
+<use pictures/merk-OEM-Android.png>
+Package pdftex.def Info: pictures/merk-OEM-Android.png  used on input line 19.
+(pdftex.def)             Requested size: 259.57175pt x 180.67639pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[2 <d:/KOOLYEAH/Project2/bukuISBN/pictures/logo_android.jpg>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[3 <d:/KOOLYEAH/Project2/bukuISBN/pictures/merk-OEM-Android.png>]
+<pictures/android-apple-pie.jpg, id=126, 927.465pt x 531.9875pt>
+File: pictures/android-apple-pie.jpg Graphic file (type jpg)
+<use pictures/android-apple-pie.jpg>
+Package pdftex.def Info: pictures/android-apple-pie.jpg  used on input line 36.
+(pdftex.def)             Requested size: 278.24164pt x 159.59747pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--53
+
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[4 <d:/KOOLYEAH/Project2/bukuISBN/pictures/android-apple-pie.jpg>]
+Overfull \hbox (22.34703pt too wide) in paragraph at lines 59--62
+\T1/ptm/m/n/10 Android \T1/ptm/m/it/10 Web Browser \T1/ptm/m/n/10 meru-pakan ap-likasi un-tuk \T1/ptm/m/it/10 search-ing web-site\T1/ptm/m/n/10 , menampilkan
+ []
+
+
+Overfull \hbox (9.85661pt too wide) in paragraph at lines 59--62
+\T1/ptm/m/n/10 mem-perbe-sar dan meli-hat dalam la-yar penuh ha-la-man \T1/ptm/m/it/10 Web HTML \T1/ptm/m/n/10 dan \T1/ptm/m/it/10 XHTML 
+ []
+
+
+Overfull \hbox (0.10704pt too wide) in paragraph at lines 64--65
+[]\T1/ptm/m/n/10 Dapat memi-liki dan men-gak-ses \T1/ptm/m/it/10 E-Mail\T1/ptm/m/n/10 , men-dukung fasil-i-tas POP3, IMAP4,
+ []
+
+
+Overfull \hbox (1.67685pt too wide) in paragraph at lines 70--72
+\T1/ptm/m/n/10 Fitur ini da-pat memu-ngkinkan pen-gelo-laan sinkro-nisasi pada ap-likasi \T1/ptm/m/it/10 Gmail,
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
+
+ []
+
+
+Overfull \hbox (4.75722pt too wide) in paragraph at lines 101--102
+\T1/ptm/m/n/10 tidak diberi nama dan hal terse-but da-pat mem-buat bin-gung masyarakat karena
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
+
+ []
+
+<pictures/android-banana-bread.jpg, id=133, 70.5837pt x 69.861pt>
+File: pictures/android-banana-bread.jpg Graphic file (type jpg)
+<use pictures/android-banana-bread.jpg>
+Package pdftex.def Info: pictures/android-banana-bread.jpg  used on input line 108.
+(pdftex.def)             Requested size: 84.69997pt x 83.83275pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[6 <d:/KOOLYEAH/Project2/bukuISBN/pictures/android-banana-bread.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 118--119
+
+ []
+
+<pictures/android-cupcake.jpg, id=138, 501.875pt x 376.40625pt>
+File: pictures/android-cupcake.jpg Graphic file (type jpg)
+<use pictures/android-cupcake.jpg>
+Package pdftex.def Info: pictures/android-cupcake.jpg  used on input line 125.
+(pdftex.def)             Requested size: 150.56366pt x 112.92273pt.
+
+Overfull \hbox (1.44704pt too wide) in paragraph at lines 130--131
+\T1/ptm/m/n/10 sedikit perbe-daan, an-droid ini men-da-p-atkan fi-tur tam-ba-han seperti \T1/ptm/m/it/10 Sup-port Blue-
+ []
+
+
+Overfull \hbox (11.69685pt too wide) in paragraph at lines 132--133
+[]\T1/ptm/m/it/10 Third Party Vir-tual Key-board \T1/ptm/m/n/10 den-gan prediksi teks dan \T1/ptm/m/it/10 User Dic-tio-nary\T1/ptm/m/n/10 (Kamus
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[7 <d:/KOOLYEAH/Project2/bukuISBN/pictures/android-cupcake.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 145--146
+
+ []
+
+<pictures/android_donut.jpg, id=142, 602.25pt x 250.9375pt>
+File: pictures/android_donut.jpg Graphic file (type jpg)
+<use pictures/android_donut.jpg>
+Package pdftex.def Info: pictures/android_donut.jpg  used on input line 152.
+(pdftex.def)             Requested size: 301.12425pt x 125.46843pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[8 <d:/KOOLYEAH/Project2/bukuISBN/pictures/android_donut.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 170--171
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--180
+
+ []
+
+<pictures/android-eclair.jpg, id=146, 481.8pt x 319.1925pt>
+File: pictures/android-eclair.jpg Graphic file (type jpg)
+<use pictures/android-eclair.jpg>
+Package pdftex.def Info: pictures/android-eclair.jpg  used on input line 186.
+(pdftex.def)             Requested size: 144.5411pt x 95.75848pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[9 <d:/KOOLYEAH/Project2/bukuISBN/pictures/android-eclair.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 228--229
+
+ []
+
+<pictures/android-froyo.png, id=150, 237.88875pt x 272.01625pt>
+File: pictures/android-froyo.png Graphic file (type png)
+<use pictures/android-froyo.png>
+Package pdftex.def Info: pictures/android-froyo.png  used on input line 235.
+(pdftex.def)             Requested size: 107.04893pt x 122.40617pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[10]
+<pictures/android-gingerbread.jpg, id=154, 602.25pt x 315.42844pt>
+File: pictures/android-gingerbread.jpg Graphic file (type jpg)
+<use pictures/android-gingerbread.jpg>
+Package pdftex.def Info: pictures/android-gingerbread.jpg  used on input line 265.
+(pdftex.def)             Requested size: 180.67639pt x 94.62926pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[11 <d:/KOOLYEAH/Project2/bukuISBN/pictures/android-froyo.png>]
+Overfull \hbox (10.68817pt too wide) in paragraph at lines 276--277
+[]\T1/ptm/m/it/10 Upgrade \T1/ptm/m/n/10 fungsi \T1/ptm/m/it/10 Copy and Paste \T1/ptm/m/n/10 yang memu-ngkinkan peng-guna un-tuk memilih
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[12 <d:/KOOLYEAH/Project2/bukuISBN/pictures/android-gingerbread.jpg>]
+Overfull \hbox (4.94746pt too wide) in paragraph at lines 286--287
+[]\T1/ptm/m/n/10 Peningkatan kual-i-tas au-dio, grafis, dan ma-sukan bagi pengem-bang per-mainan 
+ []
+
+<pictures/android-honeycomb.png, id=162, 1606.0pt x 1603.9925pt>
+File: pictures/android-honeycomb.png Graphic file (type png)
+<use pictures/android-honeycomb.png>
+Package pdftex.def Info: pictures/android-honeycomb.png  used on input line 293.
+(pdftex.def)             Requested size: 160.6094pt x 160.40865pt.
+
+Overfull \hbox (11.7474pt too wide) in paragraph at lines 298--299
+\T1/ptm/m/n/10 pada bu-lan Febru-ari 2011 silam. Na-mun, versi ini lebih di-tu-jukkan un-tuk perangkat
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[13 <d:/KOOLYEAH/Project2/bukuISBN/pictures/android-honeycomb.png>]
+<pictures/android-ice-cream-sandwich.png, id=167, 903.375pt x 989.6975pt>
+File: pictures/android-ice-cream-sandwich.png Graphic file (type png)
+<use pictures/android-ice-cream-sandwich.png>
+Package pdftex.def Info: pictures/android-ice-cream-sandwich.png  used on input line 351.
+(pdftex.def)             Requested size: 90.34279pt x 98.97554pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[14]
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[15 <d:/KOOLYEAH/Project2/bukuISBN/pictures/android-ice-cream-sandwich.png>]
+Overfull \hbox (10.36852pt too wide) in paragraph at lines 379--380
+\T1/ptm/m/n/10 nya per-tukaran jarak pen-dek book-mark web, info kon-tak, arah, video YouTube,
+ []
+
+<pictures/android-jelly-bean.jpg, id=175, 833.1125pt x 558.085pt>
+File: pictures/android-jelly-bean.jpg Graphic file (type jpg)
+<use pictures/android-jelly-bean.jpg>
+Package pdftex.def Info: pictures/android-jelly-bean.jpg  used on input line 388.
+(pdftex.def)             Requested size: 208.27762pt x 139.5209pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[16 <d:/KOOLYEAH/Project2/bukuISBN/pictures/android-jelly-bean.jpg>]
+Overfull \hbox (14.56792pt too wide) in paragraph at lines 415--416
+[]\T1/ptm/m/n/10 Penjelajah web bawaan An-droid di-ganti den-gan Google Chrome pada perangkat
+ []
+
+<pictures/android-kitkat.jpg, id=179, 501.875pt x 334.24875pt>
+File: pictures/android-kitkat.jpg Graphic file (type jpg)
+<use pictures/android-kitkat.jpg>
+Package pdftex.def Info: pictures/android-kitkat.jpg  used on input line 422.
+(pdftex.def)             Requested size: 150.56366pt x 100.27539pt.
+
+Overfull \hbox (3.74724pt too wide) in paragraph at lines 427--428
+\T1/ptm/m/n/10 men-da-p-atkan pem-ba-haru-an/up-date fi-tur. Seperti, ter-da-p-at-nya fi-tur Screen record-
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[17 <d:/KOOLYEAH/Project2/bukuISBN/pictures/android-kitkat.jpg>]
+<pictures/android-lolipop.png, id=183, 513.92pt x 289.08pt>
+File: pictures/android-lolipop.png Graphic file (type png)
+<use pictures/android-lolipop.png>
+Package pdftex.def Info: pictures/android-lolipop.png  used on input line 451.
+(pdftex.def)             Requested size: 256.95937pt x 144.53964pt.
+
+Overfull \hbox (4.62788pt too wide) in paragraph at lines 460--461
+[]\T1/ptm/m/n/10 Project volta, yang berguna un-tuk meningkatkan daya hidup bat-erai 30 persen
+ []
+
+<pictures/android-marshmallow.jpg, id=184, 642.4pt x 361.35pt>
+File: pictures/android-marshmallow.jpg Graphic file (type jpg)
+<use pictures/android-marshmallow.jpg>
+Package pdftex.def Info: pictures/android-marshmallow.jpg  used on input line 467.
+(pdftex.def)             Requested size: 192.72148pt x 108.40584pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[18]
+Overfull \hbox (10.80695pt too wide) in paragraph at lines 474--475
+[]\T1/ptm/m/n/10 Android Marsh-mal-low mem-perke-nalkan model izin yang dide-sain ulang: sekarang
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 474--475
+
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[19 <d:/KOOLYEAH/Project2/bukuISBN/pictures/android-lolipop.png> <d:/KOOLYEAH/Project2/bukuISBN/pictures/android-marshmallow.jpg>]
+<pictures/android-nougat.jpg, id=193, 1003.75pt x 669.50125pt>
+File: pictures/android-nougat.jpg Graphic file (type jpg)
+<use pictures/android-nougat.jpg>
+Package pdftex.def Info: pictures/android-nougat.jpg  used on input line 485.
+(pdftex.def)             Requested size: 301.12732pt x 200.85191pt.
+
+Overfull \hbox (12.52773pt too wide) in paragraph at lines 490--491
+[]\T1/ptm/m/n/10 Android Nougat versi 7.0 dirilis pada bu-lan Agus-tus 2016 yang lebih meningkatkan
+ []
+
+
+Overfull \hbox (30.94702pt too wide) in paragraph at lines 490--491
+\T1/ptm/m/n/10 banyak fitur-fitur baru yang di-antaranya seperti su-dah da-pat mul-ti-task-ing, meningkatkan
+ []
+
+<pictures/android-oreo.jpg, id=194, 642.4pt x 361.35pt>
+File: pictures/android-oreo.jpg Graphic file (type jpg)
+<use pictures/android-oreo.jpg>
+Package pdftex.def Info: pictures/android-oreo.jpg  used on input line 502.
+(pdftex.def)             Requested size: 192.72148pt x 108.40584pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[20]
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[21 <d:/KOOLYEAH/Project2/bukuISBN/pictures/android-nougat.jpg> <d:/KOOLYEAH/Project2/bukuISBN/pictures/android-oreo.jpg>])
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[22]
+Bab 2.
+(d:/KOOLYEAH\Project2\bukuISBN\chapters/Android-Studio.tex
+<pictures/android-studio.png, id=204, 2007.5pt x 2007.5pt>
+File: pictures/android-studio.png Graphic file (type png)
+<use pictures/android-studio.png>
+Package pdftex.def Info: pictures/android-studio.png  used on input line 3.
+(pdftex.def)             Requested size: 200.76175pt x 200.76175pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [23
+
+]
+Overfull \hbox (2.57745pt too wide) in paragraph at lines 18--19
+[]\T1/ptm/m/n/10 Sarana pem-be-la-jaran cod-ing dan pem-bu-atan ap-likasi yang baik dan prak-tis hanya
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[24 <d:/KOOLYEAH/Project2/bukuISBN/pictures/android-studio.png>]
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[25]
+Overfull \hbox (174.59558pt too wide) in paragraph at lines 74--75
+[]\T1/ptm/m/n/10 Cara men-down-load An-droid stu-dio cukup mu-dah yaitu den-gan \T1/ptm/b/n/10 https://developer.android.com/studio/?gclid=Cj0KEQiAm-
+ []
+
+
+Overfull \hbox (147.4366pt too wide) in paragraph at lines 74--75
+\T1/ptm/b/n/10 CyBRDx65nBhcmVtbIBEiQA7zm8lWCaBd9n9KYYunFXxXsQCPojBVHk5eIH4p9CWM1eLfUaAmd28P8HAQ
+ []
+
+
+Overfull \hbox (105.14606pt too wide) in paragraph at lines 74--75
+\T1/ptm/m/n/10 down-load Java De-vel-op-ment Kit den-gan \T1/ptm/b/n/10 https://www.oracle.com/technetwork/java/javase/downloads/jdk8-
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[26]
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[27]
+Overfull \hbox (5.88704pt too wide) in paragraph at lines 110--111
+[]\T1/ptm/m/n/10 Setelah itu, Anda su-dah bisa men-gin-stall An-droid Stu-dio den-gan mengikuti langkah
+ []
+
+)
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[28]
+Bab 3.
+(d:/KOOLYEAH\Project2\bukuISBN\chapters/Sejarah-Java.tex
+<pictures/104-1040733_kotlin-java-programming-language-logo-clipart-1024x598.png, id=225, 1027.84pt x 600.2425pt>
+File: pictures/104-1040733_kotlin-java-programming-language-logo-clipart-1024x598.png Graphic file (type png)
+<use pictures/104-1040733_kotlin-java-programming-language-logo-clipart-1024x598.png>
+Package pdftex.def Info: pictures/104-1040733_kotlin-java-programming-language-logo-clipart-1024x598.png  used on input line 4.
+(pdftex.def)             Requested size: 205.56436pt x 120.04637pt.
+ [29
+
+ <d:/KOOLYEAH/Project2/bukuISBN/pictures/104-1040733_kotlin-java-programming-language-logo-clipart-1024x598.png>]
+Overfull \hbox (2.78761pt too wide) in paragraph at lines 15--16
+\T1/ptm/m/n/10 terse-but belum meng-gu-nakan versi Oak . Proyek ini be-rang-gotakan Patrick Naughton,
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[30]
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [31]
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [32]
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [33]
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[34]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 197--201
+[][][] 
+ []
+
+
+Overfull \hbox (9.35909pt too wide) in paragraph at lines 217--229
+[][] 
+ []
+
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 231--236
+[][][]
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[35]
+Overfull \hbox (1.02664pt too wide) in paragraph at lines 244--246
+\T1/ptm/m/n/10 Pengertian vari-abel menu-rut F.N Ker-linger meru-pakan su-atu kon-sep yang memi-
+ []
+
+
+Overfull \hbox (7.50684pt too wide) in paragraph at lines 250--252
+\T1/ptm/m/n/10 Pengertian Vari-abel dari Su-g-iono meru-pakan segala sesu-atu yang diproses melalui
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[36]
+Overfull \hbox (6.41756pt too wide) in paragraph at lines 280--282
+\T1/ptm/m/n/10 Variabel lokal meru-pakan vari-abel yang hanya da-pad di-ak-ses pada lingkup khusus
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[37]
+Overfull \hbox (2.02695pt too wide) in paragraph at lines 316--317
+\T1/ptm/m/n/10 Variable nama dan NAMA pada con-toh di-atas meru-pakan vari-abel yang berbeda,
+ []
+
+
+Overfull \hbox (0.31761pt too wide) in paragraph at lines 330--331
+[]\T1/ptm/m/n/10 Pada se-tiap pem-ro-gra-man, op-er-a-tor meru-pakan peran pent-ing karena tanpa adanya
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[38]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 367.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 367.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[39]
+<pictures/Pengisian_Nilai_Operator_Penugasan.jpg, id=263, 581.17125pt x 88.83188pt>
+File: pictures/Pengisian_Nilai_Operator_Penugasan.jpg Graphic file (type jpg)
+<use pictures/Pengisian_Nilai_Operator_Penugasan.jpg>
+Package pdftex.def Info: pictures/Pengisian_Nilai_Operator_Penugasan.jpg  used on input line 417.
+(pdftex.def)             Requested size: 348.70544pt x 53.29953pt.
+
+Overfull \hbox (12.70544pt too wide) in paragraph at lines 417--418
+ [][] 
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [40 <d:/KOOLYEAH/Project2/bukuISBN/pictures/Pengisian_Nilai_Operator_Penugasan.jpg>]
+<pictures/penambahan_operator_penugasan.JPG, id=267, 579.66562pt x 80.55093pt>
+File: pictures/penambahan_operator_penugasan.JPG Graphic file (type jpg)
+<use pictures/penambahan_operator_penugasan.JPG>
+Package pdftex.def Info: pictures/penambahan_operator_penugasan.JPG  used on input line 438.
+(pdftex.def)             Requested size: 347.80205pt x 48.33093pt.
+
+Overfull \hbox (11.80205pt too wide) in paragraph at lines 438--439
+ [][] 
+ []
+
+<pictures/pengurangan_operator_penugasan.JPG, id=268, 584.93532pt x 92.59593pt>
+File: pictures/pengurangan_operator_penugasan.JPG Graphic file (type jpg)
+<use pictures/pengurangan_operator_penugasan.JPG>
+Package pdftex.def Info: pictures/pengurangan_operator_penugasan.JPG  used on input line 459.
+(pdftex.def)             Requested size: 350.9639pt x 55.55797pt.
+
+Overfull \hbox (14.9639pt too wide) in paragraph at lines 459--460
+ [][] 
+ []
+
+<pictures/perkalian_operator_penugasan.JPG, id=269, 587.19376pt x 90.3375pt>
+File: pictures/perkalian_operator_penugasan.JPG Graphic file (type jpg)
+<use pictures/perkalian_operator_penugasan.JPG>
+Package pdftex.def Info: pictures/perkalian_operator_penugasan.JPG  used on input line 480.
+(pdftex.def)             Requested size: 352.31897pt x 54.2029pt.
+
+Overfull \hbox (16.31897pt too wide) in paragraph at lines 480--481
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 477--485
+
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[41 <d:/KOOLYEAH/Project2/bukuISBN/pictures/penambahan_operator_penugasan.JPG> <d:/KOOLYEAH/Project2/bukuISBN/pictures/pengurangan_operator_penugasan.JPG>]
+<pictures/pembagian_operator_penugasan.JPG, id=273, 583.42969pt x 85.82062pt>
+File: pictures/pembagian_operator_penugasan.JPG Graphic file (type jpg)
+<use pictures/pembagian_operator_penugasan.JPG>
+Package pdftex.def Info: pictures/pembagian_operator_penugasan.JPG  used on input line 500.
+(pdftex.def)             Requested size: 350.0605pt x 51.49275pt.
+
+Overfull \hbox (14.0605pt too wide) in paragraph at lines 500--501
+ [][] 
+ []
+
+<pictures/sisa_bagi_operator_penugasan.JPG, id=274, 584.1825pt x 86.57344pt>
+File: pictures/sisa_bagi_operator_penugasan.JPG Graphic file (type jpg)
+<use pictures/sisa_bagi_operator_penugasan.JPG>
+Package pdftex.def Info: pictures/sisa_bagi_operator_penugasan.JPG  used on input line 521.
+(pdftex.def)             Requested size: 350.51219pt x 51.94444pt.
+
+Overfull \hbox (14.51219pt too wide) in paragraph at lines 521--522
+ [][] 
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[42 <d:/KOOLYEAH/Project2/bukuISBN/pictures/perkalian_operator_penugasan.JPG> <d:/KOOLYEAH/Project2/bukuISBN/pictures/pembagian_operator_penugasan.JPG>]
+<pictures/hasil_operator_logika_AND.JPG, id=279, 580.41844pt x 67.75313pt>
+File: pictures/hasil_operator_logika_AND.JPG Graphic file (type jpg)
+<use pictures/hasil_operator_logika_AND.JPG>
+Package pdftex.def Info: pictures/hasil_operator_logika_AND.JPG  used on input line 562.
+(pdftex.def)             Requested size: 348.25375pt x 40.65218pt.
+
+Overfull \hbox (12.25375pt too wide) in paragraph at lines 562--563
+ [][] 
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [43 <d:/KOOLYEAH/Project2/bukuISBN/pictures/sisa_bagi_operator_penugasan.JPG> <d:/KOOLYEAH/Project2/bukuISBN/pictures/hasil_operator_logika_AND.JPG>]
+<pictures/hasil_operator_logika_OR.JPG, id=283, 584.1825pt x 82.05656pt>
+File: pictures/hasil_operator_logika_OR.JPG Graphic file (type jpg)
+<use pictures/hasil_operator_logika_OR.JPG>
+Package pdftex.def Info: pictures/hasil_operator_logika_OR.JPG  used on input line 581.
+(pdftex.def)             Requested size: 350.51219pt x 49.2343pt.
+
+Overfull \hbox (14.51219pt too wide) in paragraph at lines 581--582
+ [][] 
+ []
+
+<pictures/hasil_operator_logika_negasi.JPG, id=284, 584.1825pt x 78.2925pt>
+File: pictures/hasil_operator_logika_negasi.JPG Graphic file (type jpg)
+<use pictures/hasil_operator_logika_negasi.JPG>
+Package pdftex.def Info: pictures/hasil_operator_logika_negasi.JPG  used on input line 599.
+(pdftex.def)             Requested size: 350.51219pt x 46.97585pt.
+
+Overfull \hbox (14.51219pt too wide) in paragraph at lines 599--600
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[44 <d:/KOOLYEAH/Project2/bukuISBN/pictures/hasil_operator_logika_OR.JPG> <d:/KOOLYEAH/Project2/bukuISBN/pictures/hasil_operator_logika_negasi.JPG>]
+<pictures/operator_perbandingan_lebih_besar.JPG, id=288, 583.42969pt x 75.28125pt>
+File: pictures/operator_perbandingan_lebih_besar.JPG Graphic file (type jpg)
+<use pictures/operator_perbandingan_lebih_besar.JPG>
+Package pdftex.def Info: pictures/operator_perbandingan_lebih_besar.JPG  used on input line 657.
+(pdftex.def)             Requested size: 350.0605pt x 45.16908pt.
+
+Overfull \hbox (14.0605pt too wide) in paragraph at lines 657--658
+ [][] 
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[45]
+<pictures/operator_perbandingan_lebih_kecil.JPG, id=292, 580.41844pt x 67.75313pt>
+File: pictures/operator_perbandingan_lebih_kecil.JPG Graphic file (type jpg)
+<use pictures/operator_perbandingan_lebih_kecil.JPG>
+Package pdftex.def Info: pictures/operator_perbandingan_lebih_kecil.JPG  used on input line 677.
+(pdftex.def)             Requested size: 348.25375pt x 40.65218pt.
+
+Overfull \hbox (12.25375pt too wide) in paragraph at lines 677--678
+ [][] 
+ []
+
+<pictures/operator_perbandingan_sama_dengan.JPG, id=293, 583.42969pt x 67.75313pt>
+File: pictures/operator_perbandingan_sama_dengan.JPG Graphic file (type jpg)
+<use pictures/operator_perbandingan_sama_dengan.JPG>
+Package pdftex.def Info: pictures/operator_perbandingan_sama_dengan.JPG  used on input line 697.
+(pdftex.def)             Requested size: 350.0605pt x 40.65218pt.
+
+Overfull \hbox (14.0605pt too wide) in paragraph at lines 697--698
+ [][] 
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [46 <d:/KOOLYEAH/Project2/bukuISBN/pictures/operator_perbandingan_lebih_besar.JPG> <d:/KOOLYEAH/Project2/bukuISBN/pictures/operator_perbandingan_lebih_kecil.JPG> <d:/KOOLYEAH/Project2/bukuISBN/pictures/operator_perbandingan_sama_dengan.JPG>]
+<pictures/operator_perbandingan_tidak_sama_dengan.JPG, id=297, 582.67688pt x 70.76437pt>
+File: pictures/operator_perbandingan_tidak_sama_dengan.JPG Graphic file (type jpg)
+<use pictures/operator_perbandingan_tidak_sama_dengan.JPG>
+Package pdftex.def Info: pictures/operator_perbandingan_tidak_sama_dengan.JPG  used on input line 717.
+(pdftex.def)             Requested size: 349.60883pt x 42.45894pt.
+
+Overfull \hbox (13.60883pt too wide) in paragraph at lines 717--718
+ [][] 
+ []
+
+<pictures/operator_perbandingan_lebih_besar_sama_dengan.JPG, id=298, 583.42969pt x 45.16875pt>
+File: pictures/operator_perbandingan_lebih_besar_sama_dengan.JPG Graphic file (type jpg)
+<use pictures/operator_perbandingan_lebih_besar_sama_dengan.JPG>
+Package pdftex.def Info: pictures/operator_perbandingan_lebih_besar_sama_dengan.JPG  used on input line 736.
+(pdftex.def)             Requested size: 350.0605pt x 27.10144pt.
+
+Overfull \hbox (14.0605pt too wide) in paragraph at lines 736--737
+ [][] 
+ []
+
+<pictures/operator_perbandingan_lebih_kecil_sama_dengan.JPG, id=299, 584.1825pt x 84.315pt>
+File: pictures/operator_perbandingan_lebih_kecil_sama_dengan.JPG Graphic file (type jpg)
+<use pictures/operator_perbandingan_lebih_kecil_sama_dengan.JPG>
+Package pdftex.def Info: pictures/operator_perbandingan_lebih_kecil_sama_dengan.JPG  used on input line 756.
+(pdftex.def)             Requested size: 350.51219pt x 50.58937pt.
+
+Overfull \hbox (14.51219pt too wide) in paragraph at lines 756--757
+ [][] 
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[47 <d:/KOOLYEAH/Project2/bukuISBN/pictures/operator_perbandingan_tidak_sama_dengan.JPG> <d:/KOOLYEAH/Project2/bukuISBN/pictures/operator_perbandingan_lebih_besar_sama_dengan.JPG>]
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [48 <d:/KOOLYEAH/Project2/bukuISBN/pictures/operator_perbandingan_lebih_kecil_sama_dengan.JPG>]
+<pictures/operator_bitwise.JPG, id=307, 584.93532pt x 130.23656pt>
+File: pictures/operator_bitwise.JPG Graphic file (type jpg)
+<use pictures/operator_bitwise.JPG>
+Package pdftex.def Info: pictures/operator_bitwise.JPG  used on input line 816.
+(pdftex.def)             Requested size: 350.9639pt x 78.14253pt.
+
+Overfull \hbox (14.9639pt too wide) in paragraph at lines 816--817
+ [][] 
+ []
+
+
+Overfull \hbox (26.84723pt too wide) in paragraph at lines 823--824
+[]\T1/ptm/m/n/10 Percabangan meru-pakan pemil-i-han kepu-tu-san un-tuk mengek-sekusi pro-gram berdasarkan
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 825--826
+
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[49 <d:/KOOLYEAH/Project2/bukuISBN/pictures/operator_bitwise.JPG>]
+<pictures/flowmap_if.jpg, id=311, 513.41812pt x 376.40625pt>
+File: pictures/flowmap_if.jpg Graphic file (type jpg)
+<use pictures/flowmap_if.jpg>
+Package pdftex.def Info: pictures/flowmap_if.jpg  used on input line 839.
+(pdftex.def)             Requested size: 205.3636pt x 150.55983pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 857--861
+[][][] 
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [50 <d:/KOOLYEAH/Project2/bukuISBN/pictures/flowmap_if.jpg>]
+<pictures/flowmap_if_else.jpg, id=315, 490.83376pt x 507.39563pt>
+File: pictures/flowmap_if_else.jpg Graphic file (type jpg)
+<use pictures/flowmap_if_else.jpg>
+Package pdftex.def Info: pictures/flowmap_if_else.jpg  used on input line 889.
+(pdftex.def)             Requested size: 196.33002pt x 202.95465pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 912--916
+[][][] 
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [51 <d:/KOOLYEAH/Project2/bukuISBN/pictures/flowmap_if_else.jpg>]
+<pictures/hasil_if_else.jpg, id=319, 581.92406pt x 117.43875pt>
+File: pictures/hasil_if_else.jpg Graphic file (type jpg)
+<use pictures/hasil_if_else.jpg>
+Package pdftex.def Info: pictures/hasil_if_else.jpg  used on input line 947.
+(pdftex.def)             Requested size: 349.15712pt x 70.46378pt.
+
+Overfull \hbox (13.15712pt too wide) in paragraph at lines 947--948
+ [][] 
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[52 <d:/KOOLYEAH/Project2/bukuISBN/pictures/hasil_if_else.jpg>]
+<pictures/flowmap_if_else_if.jpg, id=323, 335.75438pt x 574.39594pt>
+File: pictures/flowmap_if_else_if.jpg Graphic file (type jpg)
+<use pictures/flowmap_if_else_if.jpg>
+Package pdftex.def Info: pictures/flowmap_if_else_if.jpg  used on input line 956.
+(pdftex.def)             Requested size: 167.87677pt x 287.19725pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [53 <d:/KOOLYEAH/Project2/bukuISBN/pictures/flowmap_if_else_if.jpg>]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 988--992
+[][][] 
+ []
+
+<pictures/hasil_if_else_if.JPG, id=327, 582.67688pt x 91.09032pt>
+File: pictures/hasil_if_else_if.JPG Graphic file (type jpg)
+<use pictures/hasil_if_else_if.JPG>
+Package pdftex.def Info: pictures/hasil_if_else_if.JPG  used on input line 1029.
+(pdftex.def)             Requested size: 349.60883pt x 54.65459pt.
+
+Overfull \hbox (13.60883pt too wide) in paragraph at lines 1029--1030
+ [][] 
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[54 <d:/KOOLYEAH/Project2/bukuISBN/pictures/hasil_if_else_if.JPG>]
+File: pictures/flowmap_if_else_if.jpg Graphic file (type jpg)
+<use pictures/flowmap_if_else_if.jpg>
+Package pdftex.def Info: pictures/flowmap_if_else_if.jpg  used on input line 1038.
+(pdftex.def)             Requested size: 167.87677pt x 287.19725pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [55]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1077--1081
+[][][] 
+ []
+
+<pictures/hasil_switch_case.JPG, id=335, 581.92406pt x 129.48375pt>
+File: pictures/hasil_switch_case.JPG Graphic file (type jpg)
+<use pictures/hasil_switch_case.JPG>
+Package pdftex.def Info: pictures/hasil_switch_case.JPG  used on input line 1116.
+(pdftex.def)             Requested size: 349.15712pt x 77.69083pt.
+
+Overfull \hbox (13.15712pt too wide) in paragraph at lines 1116--1117
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[56]
+LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 1122.
+<pictures/flowmap_percabangan_dalam_percabangan.jpg, id=339, 633.86812pt x 403.5075pt>
+File: pictures/flowmap_percabangan_dalam_percabangan.jpg Graphic file (type jpg)
+<use pictures/flowmap_percabangan_dalam_percabangan.jpg>
+Package pdftex.def Info: pictures/flowmap_percabangan_dalam_percabangan.jpg  used on input line 1125.
+(pdftex.def)             Requested size: 316.93329pt x 201.75325pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [57 <d:/KOOLYEAH/Project2/bukuISBN/pictures/hasil_switch_case.JPG> <d:/KOOLYEAH/Project2/bukuISBN/pictures/flowmap_percabangan_dalam_percabangan.jpg>]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1168--1172
+[][][] 
+ []
+
+<pictures/hasil_percabangan_dalam_percabangan.JPG, id=343, 581.17125pt x 94.85437pt>
+File: pictures/hasil_percabangan_dalam_percabangan.JPG Graphic file (type jpg)
+<use pictures/hasil_percabangan_dalam_percabangan.JPG>
+Package pdftex.def Info: pictures/hasil_percabangan_dalam_percabangan.JPG  used on input line 1207.
+(pdftex.def)             Requested size: 348.70544pt x 56.91304pt.
+
+Overfull \hbox (12.70544pt too wide) in paragraph at lines 1207--1208
+ [][] 
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[58])
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[59 <d:/KOOLYEAH/Project2/bukuISBN/pictures/hasil_percabangan_dalam_percabangan.JPG>] [60
+
+]
+Bab 4.
+(d:/KOOLYEAH\Project2\bukuISBN\chapters/JDK.tex) (d:/KOOLYEAH\Project2\bukuISBN\main.bbl [61] [62
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 25--28
+[]\T1/ptm/m/n/9 MateriDosen, ``Penger-tian dan fungsi kode ascii (lengkap),''
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--28
+\T1/ptm/m/n/9 http://www.materidosen.com/2016/10/pengertian-dan-fungsi-kode-ascii-lengkap.html,
+ []
+
+
+Underfull \hbox (badness 5274) in paragraph at lines 43--46
+[]\T1/ptm/m/n/9 M. Tyson, ``What is the jdk? in-tro-duc-tion to the java de-vel-op-ment kit,''
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--46
+\T1/ptm/m/n/9 https://www.javaworld.com/article/3296360/what-is-the-jdk-introduction-to-the-java-
+ []
+
+) [63] [64
+
+] (d:/KOOLYEAH\Project2\bukuISBN\main.ind [65
+
+
+]) (d:/KOOLYEAH\Project2\bukuISBN\main.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 5287 strings out of 492452
+ 80023 string characters out of 3133058
+ 427786 words of memory out of 3000000
+ 9422 multiletter control sequences out of 15000+200000
+ 99771 words of font info for 128 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 47i,11n,95p,1494b,1893s stack positions out of 5000i,500n,10000p,200000b,50000s
+{D:/KOOLYEAH/LatexApp/fonts/enc/dvips/base/8r.enc}<D:/KOOLYEAH/LatexApp/fonts/type1/public/amsfonts/cm/cmex10.pfb><D:/KOOLYEAH/LatexApp/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/KOOLYEAH/LatexApp/fonts/type1/public/amsfonts/cm/cmmi7.pfb><D:/KOOLYEAH/LatexApp/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/KOOLYEAH/LatexApp/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/KOOLYEAH/LatexApp/fonts/type1/public/amsfonts/cm/cmsy8.pfb><D:/KOOLYEAH/LatexApp/fonts/type1/urw/helvetic/uhvb8a.pfb><D:/KOOLYEAH/LatexApp/fonts/type1/urw/helvetic/uhvr8a.pfb><D:/KOOLYEAH/LatexApp/fonts/type1/urw/times/utmb8a.pfb><D:/KOOLYEAH/LatexApp/fonts/type1/urw/times/utmbi8a.pfb><D:/KOOLYEAH/LatexApp/fonts/type1/urw/times/utmr8a.pfb><D:/KOOLYEAH/LatexApp/fonts/type1/urw/times/utmri8a.pfb>
+Output written on d:/KOOLYEAH\Project2\bukuISBN\main.pdf (96 pages, 2444805 bytes).
+PDF statistics:
+ 411 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 221 words of extra memory for PDF output out of 10000 (max. 10000000)
+
